@@ -1,7 +1,9 @@
 # gameplay-tunning-aoe4-
 A tunning pack for age of empires 4.
 
-Noting some important changes:
+# Pull request any changes you are interested to see(if I have the time I will try to do them).
+
+# Noting some important changes:
 1. Infantry units(not siege engines) train in blocks of 5 and their training time is reduced in half.
 2. A villager's training time is reduced significantly(to 5 seconds) and a monk is trained in 10 seconds.
 3. The Russian civ can now build the stone wall from Feudal age not needing to wait to build the Spasskaya landmark in age 4.
